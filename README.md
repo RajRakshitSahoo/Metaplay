@@ -1,4 +1,4 @@
-# 🎮 MetaPlay — Play. Compete. Conquer.
+dasasda# 🎮 MetaPlay — Play. Compete. Conquer.
 
 MetaPlay is a **full-stack multiplayer gaming platform** combining the best of Steam, Discord, Chess.com, Xbox Dashboard, and PlayStation Network. Built with a cyberpunk neon aesthetic, real-time multiplayer via Socket.IO, and 20+ playable games.
 
